@@ -17,7 +17,7 @@ y = data.target
 x_treino , x_teste , y_treino , y_teste = train_test_split(x,y)
 
 #instancia de modelo
-modelo = tree.DecisionTreeRegressor()
+modelo = DecisionTreeRegressor()
 
 #modelo treino = dados + rotulos
 modelo.fit(x_treino , y_treino)
