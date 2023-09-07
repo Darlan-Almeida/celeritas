@@ -1,2 +1,5 @@
-validar modelo
-preencher a tabela de teste
+validar modelo -> o modelo arvore de decisão apresenta uma boa precisão em relação a sua comparação com a base de treino_clonada OK
+preencher a tabela de teste -> OK
+
+Realizar o oversampling para equilibrar a base de dados
+
