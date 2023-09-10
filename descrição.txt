@@ -1,0 +1,13 @@
+Software / Biblioteca utilizado: Python usando Scikit-learn
+Passos da resolução da Prova: 
+1. Carregar os dados de treinamento.
+2. separar os dados das respostas.
+3. rotular os dados.
+4. Usar o modelo de arvore de decisão
+5. Analisar as métricas de acertos
+6. preencher a tabela de teste
+7. formatar tabela apenas para conter apenas a coluna Id e Target
+Explicação da escolha do algoritmo de Aprendizado de Máquina: Escolhi
+Árvore de Decisão porque trata-se um problema binário, que tem com resposta apenas 1 ou 0. Além de sua dinâmica e fácil entendimento
+
+Repositório: github.com/darlan-almeida/celeritas
